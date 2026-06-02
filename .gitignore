@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Project-specific
+data/raw/
+data/processed/
+*.pbix
+visualizations/*.png
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
